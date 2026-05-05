@@ -57,6 +57,7 @@ Venkateswaran
 - [eyoung21](https://github.com/eyoung21)
 - [jatin](https://github.com/jatin0670)
 - [yash1511-bogam](https://github.com/yash1511-bogam)
+- [Ethan Miao](https://github.com/29miaoet)
 - [Akash Chakraborty](https://github.com/deep72p0)
 - [Sagasra](https://github.com/Sagasra20)
 - [Christopher Hillebrand] (https://github.com/Yaaramir)
